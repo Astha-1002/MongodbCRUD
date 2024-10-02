@@ -1,0 +1,7 @@
+model: chatgpt
+max_test_iterations: 5
+java_version: 11
+logging_level: debug
+classes:
+  - name: ProductServiceImpl
+    methodExclusive:
