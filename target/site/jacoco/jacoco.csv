@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+springboot-thymeleaf-web-app,net.springboot.javaguides.service,ProductServiceImpl,0,95,0,6,0,21,0,9,0,6
+springboot-thymeleaf-web-app,net.springboot.javaguides,Application,8,0,0,0,3,0,2,0,2,0
+springboot-thymeleaf-web-app,net.springboot.javaguides.controller,ProductController,6,33,0,0,2,6,1,5,1,5
+springboot-thymeleaf-web-app,net.springboot.javaguides.exception,ResourceNotFoundException,0,9,0,0,0,4,0,2,0,2
+springboot-thymeleaf-web-app,net.springboot.javaguides.model,Product,0,24,0,0,0,10,0,7,0,7

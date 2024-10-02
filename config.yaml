@@ -1,0 +1,8 @@
+model: chatgpt
+max_test_iterations: 99
+java_version: 11
+logging_level: debug
+classes:
+  - name: ProductController
+    methodExclusive:
+    - deleteProduct

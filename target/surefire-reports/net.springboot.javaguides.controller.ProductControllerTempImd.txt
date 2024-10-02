@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: net.springboot.javaguides.controller.ProductControllerTempImd
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.43 s <<< FAILURE! - in net.springboot.javaguides.controller.ProductControllerTempImd
+givenInvalidProductId_whenUpdateProduct_thenReturnsNotFound  Time elapsed: 0.413 s  <<< ERROR!
+java.lang.RuntimeException: Product not found
+	at net.springboot.javaguides.controller.ProductControllerTempImd.givenInvalidProductId_whenUpdateProduct_thenReturnsNotFound(ProductControllerTempImd.java:28)
+
